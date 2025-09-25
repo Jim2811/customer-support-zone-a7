@@ -8,10 +8,12 @@ function App() {
   return (
     <>
       <Nav></Nav>
-      <PRCards></PRCards>
-      <Suspense>
-        <ComplaintCards complaints = {complaints}></ComplaintCards>
-      </Suspense>
+      <main className='bg-[#f5f5f5]'>
+        <PRCards></PRCards>
+        <Suspense>
+          <ComplaintCards complaints = {complaints}></ComplaintCards>
+        </Suspense>
+      </main>
     </>
   )
 }
