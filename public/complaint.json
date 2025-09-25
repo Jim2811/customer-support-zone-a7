@@ -4,7 +4,7 @@
     "title": "Website Login Issue",
     "description": "Customer cannot log in to their account. Getting an 'Invalid Credentials' error even with the correct password.",
     "customer": "Rahim Ahmed",
-    "priority": "High",
+    "priority": "High Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-20"
   },
@@ -13,7 +13,7 @@
     "title": "Billing Query: Double Charge",
     "description": "Customer reports being charged twice for the monthly subscription. Needs immediate refund.",
     "customer": "Fatema Begum",
-    "priority": "High",
+    "priority": "High Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-20"
   },
@@ -22,16 +22,16 @@
     "title": "Feature Request: Dark Mode",
     "description": "Suggesting a dark mode feature for better night time viewing experience.",
     "customer": "Karim Khan",
-    "priority": "Low",
+    "priority": "Low Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-21"
   },
   {
     "id": 4,
-    "title": "Slow Performance on Dashboard",
-    "description": "The main user dashboard is loading very slowly, especially when there are many data points.",
+    "title": "Slow Priority Performance on Dashboard",
+    "description": "The main user dashboard is loading very slow Priorityly, especially when there are many data points.",
     "customer": "Shila Akter",
-    "priority": "Medium",
+    "priority": "Medium Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-21"
   },
@@ -40,7 +40,7 @@
     "title": "Broken Link on Contact Page",
     "description": "The 'Live Chat' button on the contact us page redirects to a 404 error.",
     "customer": "Mizanur Rahman",
-    "priority": "High",
+    "priority": "High Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-22"
   },
@@ -49,7 +49,7 @@
     "title": "Password Reset Email Not Received",
     "description": "Customer requested a password reset but hasn't received the email in their inbox or spam folder.",
     "customer": "Ayesha Noor",
-    "priority": "Medium",
+    "priority": "Medium Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-22"
   },
@@ -58,7 +58,7 @@
     "title": "Typo in Footer Text",
     "description": "There is a spelling mistake ('Copyrigt' instead of 'Copyright') in the website footer.",
     "customer": "Tariqul Islam",
-    "priority": "Low",
+    "priority": "Low Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-23"
   },
@@ -67,7 +67,7 @@
     "title": "Mobile View Layout Breakage",
     "description": "The website layout breaks apart when viewed on a small mobile device (iPhone SE).",
     "customer": "Nazma Khatun",
-    "priority": "High",
+    "priority": "High Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-23"
   },
@@ -76,7 +76,7 @@
     "title": "Integration Setup Assistance",
     "description": "Need help setting up the third-party API integration with their system.",
     "customer": "Sagar Biswas",
-    "priority": "Medium",
+    "priority": "Medium Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-24"
   },
@@ -85,7 +85,7 @@
     "title": "Unexpected Logout Issue",
     "description": "The user is being logged out automatically after only 5 minutes of inactivity.",
     "customer": "Priya Sen",
-    "priority": "High",
+    "priority": "High Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-24"
   },
@@ -94,7 +94,7 @@
     "title": "Request for Documentation Update",
     "description": "The documentation for the 'Export Data' feature is outdated and confusing.",
     "customer": "Kamrul Hasan",
-    "priority": "Low",
+    "priority": "Low Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-25"
   },
@@ -103,7 +103,7 @@
     "title": "Error 500 on Checkout Page",
     "description": "When trying to finalize a purchase, the user encounters a Server Error 500.",
     "customer": "Jahanara Alam",
-    "priority": "High",
+    "priority": "High Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-25"
   },
@@ -112,7 +112,7 @@
     "title": "Minor UI Alignment Issue",
     "description": "A button is slightly misaligned by a few pixels on the product details page.",
     "customer": "Asif Iqbal",
-    "priority": "Low",
+    "priority": "Low Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-26"
   },
@@ -121,7 +121,7 @@
     "title": "Subscription Cancellation Query",
     "description": "Customer wants to know the procedure for cancelling their current subscription plan.",
     "customer": "Shahinur Islam",
-    "priority": "Medium",
+    "priority": "Medium Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-26"
   },
@@ -130,7 +130,7 @@
     "title": "Report Generation Failure",
     "description": "The weekly sales report fails to generate and throws an 'Unknown Error'.",
     "customer": "Sadia Sultana",
-    "priority": "High",
+    "priority": "High Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-27"
   },
@@ -139,7 +139,7 @@
     "title": "Cannot Upload Profile Picture",
     "description": "User is unable to upload a profile picture. The progress bar gets stuck at 99%.",
     "customer": "Akbar Hossain",
-    "priority": "Medium",
+    "priority": "Medium Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-27"
   },
@@ -148,7 +148,7 @@
     "title": "License Key Activation Problem",
     "description": "The purchased license key shows as 'Invalid' when trying to activate the software.",
     "customer": "Nusrat Jahan",
-    "priority": "High",
+    "priority": "High Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-28"
   },
@@ -157,7 +157,7 @@
     "title": "Need assistance with API documentation",
     "description": "Customer is struggling to understand how to authenticate with the new API version.",
     "customer": "Rafiqul Haque",
-    "priority": "Medium",
+    "priority": "Medium Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-28"
   },
@@ -166,7 +166,7 @@
     "title": "Wishlist items disappearing",
     "description": "Items saved to the user's wishlist occasionally disappear after refreshing the page.",
     "customer": "Bipasha Ray",
-    "priority": "High",
+    "priority": "High Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-29"
   },
@@ -175,7 +175,7 @@
     "title": "Suggestion for filter improvements",
     "description": "Suggesting adding an 'Sort by Date' option to the main product listing page.",
     "customer": "Hasan Mahmud",
-    "priority": "Low",
+    "priority": "Low Priority",
     "status": "In-Progress",
     "createdAt": "2024-07-29"
   }

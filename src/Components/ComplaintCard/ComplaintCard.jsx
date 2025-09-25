@@ -17,7 +17,7 @@ const ComplaintCard = ({ complaint }) => {
         <div className="flex justify-between items-center mt-2">
           <div>
             <span>#{complaint.id}</span> <span 
-            className= {`${complaint.priority}`}>{complaint.priority}</span>
+            className= {`${complaint.priority === "High Priority" ? "text-red-500" : complaint.priority === "Medium Priority" ? "text-amber-500" : "text-green-500"}`}>{complaint.priority}</span>
           </div>
           <div className="flex items-center gap-3">
             <div><p>{complaint.customer}</p></div>
